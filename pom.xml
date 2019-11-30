@@ -4,11 +4,7 @@
   <artifactId>mavendemos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
     <build>
- <properties> 
-   <maven.compiler.source>1.8</maven.compiler.source 
-   <maven.compiler.target>1.8</maven.compiler.target> 
-   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
